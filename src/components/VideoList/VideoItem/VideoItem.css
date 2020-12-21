@@ -1,0 +1,11 @@
+.container {
+  display: flex;
+  margin: 0 auto 12px;
+}
+
+.video-item p{
+  width: 100%;
+  margin: 0;
+  text-align: left;
+  padding-left: 12px;
+}
