@@ -1,3 +1,11 @@
 .App {
   text-align: center;
 }
+
+.video-container {
+  display: flex;
+}
+
+.video-list {
+  margin: 0 12px;
+}
