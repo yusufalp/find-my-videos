@@ -4,8 +4,6 @@ import SearchBar from './components/SearchBar/SearchBar';
 import VideoList from './components/VideoList/VideoList';
 import VideoDetail from './components/VideoDetail/VideoDetail';
 
-require('dotenv').config()
-
 class App extends React.Component {
   state = {
     videos: [],
